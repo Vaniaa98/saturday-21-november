@@ -3,6 +3,10 @@
 # newspaper front page drawn programmatically. This program copies it
 # byte-for-byte to /output/entry.png. No network, no dependencies.
 #
+# v2: flag chips on the cards, UTC times (00:09/01:30/18:24 UTC), a LIVE tag
+# on the ongoing COP31 talks, and richer illustrations. The image itself
+# is unchanged in skeleton (35 stories, 7 regions, DATE CHECK intact).
+#
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
