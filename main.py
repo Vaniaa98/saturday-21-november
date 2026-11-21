@@ -7,6 +7,11 @@
 # on the ongoing COP31 talks, and richer illustrations. The image itself
 # is unchanged in skeleton (35 stories, 7 regions, DATE CHECK intact).
 #
+# v3: small-card bodies capped at 1 line (fixes the ALSO ON SATURDAY
+# heading collision), list/tags/captions/footer in bold, map redesigned
+# (sea gradient, per-continent tints, graticule, compass, 4 city labels,
+# pins r=8 with >=16px separation).
+#
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
